@@ -6,8 +6,9 @@ const CustManageSys = () => {
   return (
     <div className='h-full '>
         <div className="h-[20%] flex justify-center items-center">
-          <h1 className="text-3xl">Customer Management System</h1>
+          <h1 className="text-3xl">  Customer Management System</h1>
         </div>
+         
         <div className="h-[80%]">
           <table className="w-full text-center">
             <tr>
